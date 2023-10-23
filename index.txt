@@ -1,0 +1,265 @@
+﻿﻿<!DOCTYPE html>
+      <html lang="pl-PL">
+      <html>
+		<head>
+		       <meta charset="utf-8">
+			   <META name="Author" content="Zuzanna Król" />
+			   <meta name="Description" content="//Dowcipy//" />
+			   <meta http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-2" />
+
+		      <title> Zuzanna Król </title>
+		</head>
+		<body> <body bgcolor="silver">
+		<!-- zadanie 1 -->
+<!-- linki -->
+<a name="początek">początek strony</a> <br>
+<A HREF="Poczta_Król.html"> Link do poczty </A> <br>
+<A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
+<A HREF="#środek"> środek strony </A> <br>
+<A HREF="#koniec"> koniec strony </A> <br>
+<A HREF="Tabela_Król.html"> Link do strony zawierającej tabelę </A> <br>
+<A HREF="Formularz_Król.html"> Link do strony zawierającej formularz </A> <br>
+
+
+<p align="left"> <font color="purple" size="7" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="brown" size="6" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="blue" size="5" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="SpringGreen" size="4" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="pink" size="3" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="Magenta" size="2" face="Arial"> Zuzanna </font> </p> <br>
+<p align="left"> <font color="gray" size="1" face="Arial"> Zuzanna </font> </p> <br >
+
+<h6> Król </h6><br>
+<h5> Król </h5><br>
+<h4> Król </h4><br>
+<h3> Król </h3><br>
+<h2> Król </h2><br>
+<h1> Król </h1><br>
+
+<p align="left"> <font color="MediumVioletRed" size="1" face="'Courier New'"> ;`) - śmiech przez łzy </font> </p> <br>
+<p align="left"> <font color="brown" size="4" face="'Times New Roman'"> :/ - zniesmaczenie </font> </p> <br>
+<p align="left"> <font color="SlateBlue" size="6" face="Verdana"> >:( - złość </font> </p> <br>
+<p align="left"> <font color="Gold" size="2" face="'Geogria'"> :O - zdziwienie </font> </p> <br>
+<p align="left"> <font color="orange" size="7" face="'Times New Roman'"> :* - całus </font> </p> <br>
+<p align="left"> <font color="green" size="3" face="'Trebuchet MS'"> :D - duży uśmiech </font> </p> <br>
+
+<!-- zadanie 2 -->
+
+<p align="right"> <font color="pink" size="3" face="'Geogria'"> 37-345 Sopot Grunwaldzka 72/3</font> </p> <br>
+
+<p align="center"> <font color="blue" size="1" face="'Times New Roman'"> <u> Ulubiony aktor: <b> Ryan Gosling </b> </u> </font> </p> <br>
+
+<p align="right"> <font color="brown" size="6" face="Verdana"> <s> Ulubiony zespół muzyczny: Slipknot </s> </font> </p> <br>
+
+<p align="right"> <font color="green" size="5" face="'Courier New'"> <i> 12 Kwietnia 1986 </i> </font> </p> <br>
+
+
+<p align="left"> <font color="gray" size="2" face="'Courier New'"> <b> H<sub>2</sub>SO<sub>4</sub> </b> </font> </p> <br>
+<p align="left"> <font color="Gold" size="4" face="'Courier New'"> <b> x<sup>*</sup>x=x<sup>2</sup> </b> </font> </p> <br>
+
+
+<!-- zadanie 3 tabelki -->
+
+<H1 align=left>Żart o lekarzu</H1>
+<FIELDSET> 
+	<LEGEND> Chytry pacjent </LEGEND>
+	
+	<IMG SRC="https://media0.giphy.com/media/cl854UJ9t7D2sv0weI/giphy.gif?cid=ecf05e47kduaddtvjr907g946v1gkrfbyes86jihl8lnnsc7&ep=v1_gifs_search&rid=giphy.gif&ct=g" ALIGN=right BORDER="36" WIDTH="126" HEIGHT="115" ALT=„grafika1-Król”>
+
+	-Dzień dobry ma pan kapcie? <br>
+	-Dzień dobry mam. <br>
+	-Szlafrok? <br>
+	-Tak. <br>
+	-Pościel jest? <br> 
+	-Jest. <br>
+	-Poduszka, kołdra, materac? <br>
+	-Tak, wziąłem. <br>
+	-Dobrze, a kim jest pan obok w białym kitlu? <br>
+	-Na wszelki wypadek wziąłem też lekarza jakbyście nie mieli. <br>
+	
+</FIELDSET>
+<HR SIZE "7" WIDTH="57%" ALIGN=LEFT COLOR=blue>
+<br>
+
+<a name="środek">środek strony</a> <br>
+<A HREF="Poczta_Król.html"> Link do poczty </A> <br>
+<A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
+<A HREF="#początek"> początek strony </A> <br>
+<A HREF="#koniec"> koniec strony </A> <br>
+<A HREF="Tabela_Król.html"> Link do strony zawierającej tabelę </A> <br>
+<A HREF="Formularz_Król.html"> Link do strony zawierającej formularz </A> <br>
+
+<H3 align=center> Żart o mężczyźnie </H3>
+<FIELDSET> 
+	<LEGEND> U okulisty </LEGEND>
+	
+	<IMG SRC="https://media3.giphy.com/media/iEivb6DyFoJJm/giphy.gif?cid=ecf05e47cf9jm0qu3u1r8tnmtw3xo4nzjlp4cuuv9ygrhzhv&ep=v1_gifs_related&rid=giphy.gif&ct=g" ALIGN=LEFT BORDER="19" WIDTH="109" HEIGHT="104" ALT=„grafika2-Król”>
+	Przychodzi facet do sklepu i mówi: <br>
+	-Poproszę okulary. <br>
+	-Do czego? <br>
+	-Do widzenia.<br>
+	-Do widzenia. <br> 
+	
+	<IMG SRC="https://media0.giphy.com/media/l4EoOOBw8SPzmQ8Io/giphy.gif?cid=ecf05e47dgs3jx831ijy21l1qross8h98bcm75hwjwf0ddxc&ep=v1_gifs_search&rid=giphy.gif&ct=g" ALIGN=right BORDER="25" WIDTH="115" HEIGHT="126" ALT=„grafika3-Król”>
+
+	
+</FIELDSET> 
+ <HR SIZE="4" WIDTH="30%" ALIGN=center COLOR=yellow>
+<br>
+
+<H5 align=right> Żart o pracowniku </H5>
+<FIELDSET>
+	<LEGEND> Chciwy pracownik </LEGEND>
+	
+	<IMG SRC="https://media1.giphy.com/media/5QMOICVmXremPSa0k7/giphy.gif?cid=ecf05e4729ldjjo5odlxnf21770wip3zchuz5xntv5gcbf2f&ep=v1_gifs_search&rid=giphy.gif&ct=g" ALIGN=left BORDER="14" WIDTH="104" HEIGHT="109" ALT=„grafika4-Król”>
+	<IMG SRC="https://i.imgur.com/dNAH1KZ.gif" ALIGN=right BORDER="17" WIDTH="107" HEIGHT="104" ALT=„grafika5-Król”>
+
+	
+	Dyrektor do swojego pracownika: <br>
+	- Z pana to byłby doskonały przestępca... <br>
+	- Dlaczego? <br>
+	- Bo nie zostawia pan żadnych śladów swojej działalności... <br>
+	<br>
+
+</FIELDSET>
+<HR SIZE="5" WIDTH="68%" ALIGN=right COLOR=brown>
+<br>
+
+<p> <b> nazwisko ucznia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imię ucznia </b> </p> 
+<p> Król&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zuzanna </p> <br>
+<p> &yen; &Uuml; &OElig; &dagger; &sect; &copy; &Ouml; </p> <br>
+
+
+ <!- Król Zuzanna, Zespół Szkół Energetycznych, klasa 2F grupa 1 ->
+ 
+ <!- zadanie 4 ->
+ 
+ <br><br><br>
+ <H1> Poniżej są trzy numerowania z różnymi znakami numerowania </H1> <br>
+ 
+ <p align="left"> <font color="blue" size="3" face="'Courier New'"> Wybrane operatory w języku c++: <br> <UL TYPE=square>
+	<LI> a + b = dodawanie
+	<LI> a - b = odejmowanie
+	<LI> a * b = mnożenie
+	<LI> a / b = dzielenie
+ </UL>
+ 
+ <UL TYPE=disc>
+	<LI> a &lt; b = znak mniejszości
+	<LI> a &lt;= b = mniejszy lub równy
+	<LI> a &gt; b = znak większości
+	<LI> a &gt; = b = większy lub równy
+ </UL> 
+ 
+ <UL TYPE=circle>
+	<LI> a == b = znak równości
+	<LI> a != b = różny od
+	<LI> a &amp;&amp;  b = iloczyn logiczny
+	<LI> a || b = suma logiczna
+ </UL> </font> </p> <br>
+ 
+
+ <br><br><br>
+ <H2> Poniżej są trzy numerowania z różnymi znakami numerowania </H2> <br>
+ 
+ <p align="left"> <font color="Magenta" size="3" face="'Courier New'"> Przykłady portów równoległych: <br> <OL TYPE="1" START="15">
+	<LI> LPT
+	<LI> PCMCIA
+	<LI> SCSI
+	<LI> ATA
+ </OL> 
+
+Przykłady portów szeregowych: <br>
+<OL TYPE=A START=15>
+	<LI> USB
+	<LI> PS/2
+	<LI> RJ45
+	<LI> SATA
+ </OL>
+ 
+Standardy USB i prędkość transferu: <br>
+ <OL TYPE=i START=15>
+	<LI> USB 1.0 - 12Mbit/s
+	<LI> USB 1.1 - 12Mbit/s
+	<LI> USB 2.O - 480Mbit/s
+	<LI> USB 3.0 - 5Gbit/s
+	<LI> USB 3.1 - 10Gbit/s
+	<LI> USB 3.1 typ C - 10Gbit/s
+ </OL> </font> </p> <br>
+ 
+ <br><br><br>
+ <H3> Poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia </H3> <br>
+ 
+ 
+ <p align="left"> <font color="green" size="3" face='Times New Roman'> <ol>
+    <li>Gatunki muzyczne
+        <ol type="A">
+            <li>Rock
+                <ol type="I">
+                    <li>Klasyczny Rock
+                        <ol type="a">
+                            <li>The Beatles</li>
+                            <li>Quenn</li>
+							<li>The Rolling Stones</li>
+                        </ol>
+                    </li>
+                    <li>Hard rock
+                        <ol type="a">
+                            <li>AC/DC</li>
+                            <li>Scorpions</li>
+							<li>Metallica</li>
+                        </ol>
+                    </li>
+					
+                </ol>
+            </li>
+            <li>Pop
+                <ol type="I">
+                    <li>Country Pop
+                        <ol type="a">
+                            <li>Taylor Swift</li>
+                            <li>Ariana Grande</li>
+							<li>Billy Ray Cyrus</li>
+                        </ol>
+                    </li>
+					<li>Pop Punk
+						<ol type="a">
+							<li>Fall Out Boy</li>
+							<li>Neck Deep</li>
+							<li>Machine Gun Kelly</li>
+						</ol>
+                </ol>
+            </li>
+            <li>Heavy metal
+                <ol type="I">
+                    <li>Power metal
+                        <ol type="a">
+                            <li>Ghost</li>
+                            <li>Blind Guardian</li>
+							<li>Rhapsody of Fire</li>
+                        </ol>
+                    </li>
+					<li>Ghotic metal
+						<ol type="a">
+							<li>Theatre of Tradegy</li>
+							<li>HIM</li>
+							<li>Crematory</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+</ol> </ol>  </font> </p> <br>
+
+<a name="koniec">koniec strony</a> <br>
+<A HREF="Poczta_Król.html"> Link do poczty </A> <br>
+<A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
+<A HREF="#początek"> początek strony </A> <br>
+<A HREF="#środek"> środek strony </A> <br>
+<A HREF="Tabela_Król.html"> Link do strony zawierającej tabelę </A> <br>
+<A HREF="Formularz_Król.html"> Link do strony zawierającej formularz </A> <br>
+ 
+
+</body>
+</body>
+
+</html>
