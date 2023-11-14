@@ -1,18 +1,19 @@
-﻿﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>
       <html lang="pl-PL">
       <html>
 		<head>
 		       <meta charset="utf-8">
 			   <META name="Author" content="Zuzanna Król" />
 			   <meta name="Description" content="//Dowcipy//" />
-			   <meta http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-2" />
+			   <meta http-equiv="Content-Type" CONTENT="text/html; charset=utf-8" />
 
 		      <title> Zuzanna Król </title>
 		</head>
-		<body> <body bgcolor="silver">
+		<body bgcolor="silver">
 		<!-- zadanie 1 -->
+
 <!-- linki -->
-<a name="początek">początek strony</a> <br>
+<a id="początek">początek strony</a> <br>
 <A HREF="Poczta_Król.html"> Link do poczty </A> <br>
 <A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
 <A HREF="#środek"> środek strony </A> <br>
@@ -20,6 +21,8 @@
 <A HREF="Tabela_Król.html"> Link do strony zawierającej tabelę </A> <br>
 <A HREF="Formularz_Król.html"> Link do strony zawierającej formularz </A> <br>
 
+<p align="left"> <font color="black" size="4" face="Arial"> Walidacja strony HTML - proces sprawdzenia znaczników HTML, na stronie internetowej, pod kątem błędów składniowych i leksykalnych.  </font> </p> <br>
+<p align="left"> <font color="black" size="4" face="Arial"> Walidator - narzędzie, które analizuje kod źródłowy strony internetowej i identyfikuje błędy lub niezgodności.  </font> </p> <br>
 
 <p align="left"> <font color="purple" size="7" face="Arial"> Zuzanna </font> </p> <br>
 <p align="left"> <font color="brown" size="6" face="Arial"> Zuzanna </font> </p> <br>
@@ -78,10 +81,10 @@
 	-Na wszelki wypadek wziąłem też lekarza jakbyście nie mieli. <br>
 	
 </FIELDSET>
-<HR SIZE "7" WIDTH="57%" ALIGN=LEFT COLOR=blue>
+<HR SIZE="7" WIDTH="57%" ALIGN=LEFT COLOR=blue>
 <br>
 
-<a name="środek">środek strony</a> <br>
+<a id="środek">środek strony</a> <br>
 <A HREF="Poczta_Król.html"> Link do poczty </A> <br>
 <A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
 <A HREF="#początek"> początek strony </A> <br>
@@ -130,9 +133,9 @@
 <p> &yen; &Uuml; &OElig; &dagger; &sect; &copy; &Ouml; </p> <br>
 
 
- <!- Król Zuzanna, Zespół Szkół Energetycznych, klasa 2F grupa 1 ->
+ <!-- Król Zuzanna, Zespół Szkół Energetycznych, klasa 2F grupa 1 -->
  
- <!- zadanie 4 ->
+ <!-- zadanie 4 -->
  
  <br><br><br>
  <H1> Poniżej są trzy numerowania z różnymi znakami numerowania </H1> <br>
@@ -250,7 +253,7 @@ Standardy USB i prędkość transferu: <br>
     </li>
 </ol> </ol>  </font> </p> <br>
 
-<a name="koniec">koniec strony</a> <br>
+<a ID="koniec">koniec strony</a> <br>
 <A HREF="Poczta_Król.html"> Link do poczty </A> <br>
 <A HREF="Plik_Król.html"> Link do ściągania pliku </A> <br>
 <A HREF="#początek"> początek strony </A> <br>
@@ -259,7 +262,6 @@ Standardy USB i prędkość transferu: <br>
 <A HREF="Formularz_Król.html"> Link do strony zawierającej formularz </A> <br>
  
 
-</body>
 </body>
 
 </html>
